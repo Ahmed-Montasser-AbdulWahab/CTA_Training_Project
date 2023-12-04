@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pc9p/D2MZO9P4U5GuUTyfhMJeAOS5ahb7iibpzbVl1EMUXDRCKcWKZWIRhoY7K1vohQPHMidyMABXGRN2OtKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmed\\Documents\\Visual Studio 2022\\Projects\\Sol2\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
